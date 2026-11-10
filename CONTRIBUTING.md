@@ -5,7 +5,7 @@ pull requests can be in English or Thai.
 
 ## Reporting a bug
 
-Open an [issue](https://github.com/duckxy166/duckxy-among-ai/issues) with:
+Open an [issue](https://github.com/duckxy166/among-us-ai/issues) with:
 
 - the command you ran and what happened instead of what you expected,
 - your Node.js version (`node -v`), your OS, and the release or commit you are on,
@@ -93,7 +93,7 @@ tables. They are twins with the same sections; write the Thai as natural Thai, n
 ## Releases
 
 Versions follow [semver](https://semver.org) in `package.json`. A release is a tag `vX.Y.Z` on `main` with
-notes on the GitHub [Releases](https://github.com/duckxy166/duckxy-among-ai/releases) page: what players
+notes on the GitHub [Releases](https://github.com/duckxy166/among-us-ai/releases) page: what players
 of the game would notice first, then changes for people building on the event log or the exports.
 
 By contributing you agree that your contribution is licensed under the [MIT License](LICENSE).
