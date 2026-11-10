@@ -9,9 +9,9 @@
 AI 4 ถึง 10 ตัวในแมตช์เดียว แต่ละตัวมีความจำของตัวเอง มีความคิดในใจที่คนอื่นไม่เห็น
 และมีวิธีโกหก กล่าวหา และโหวตเป็นของตัวเอง
 
-[![Latest release](https://img.shields.io/github/v/release/duckxy166/duckxy-among-ai?style=flat-square&label=release&color=4caf50)](https://github.com/duckxy166/duckxy-among-ai/releases/latest)
-[![Tests](https://img.shields.io/github/actions/workflow/status/duckxy166/duckxy-among-ai/tests.yml?branch=main&style=flat-square&label=tests)](https://github.com/duckxy166/duckxy-among-ai/actions/workflows/tests.yml)
-[![GitHub stars](https://img.shields.io/github/stars/duckxy166/duckxy-among-ai?style=flat-square&color=f5c518)](https://github.com/duckxy166/duckxy-among-ai/stargazers)
+[![Latest release](https://img.shields.io/github/v/release/duckxy166/among-us-ai?style=flat-square&label=release&color=4caf50)](https://github.com/duckxy166/among-us-ai/releases/latest)
+[![Tests](https://img.shields.io/github/actions/workflow/status/duckxy166/among-us-ai/tests.yml?branch=main&style=flat-square&label=tests)](https://github.com/duckxy166/among-us-ai/actions/workflows/tests.yml)
+[![GitHub stars](https://img.shields.io/github/stars/duckxy166/among-us-ai?style=flat-square&color=f5c518)](https://github.com/duckxy166/among-us-ai/stargazers)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 ![Node 20.12+](https://img.shields.io/badge/node-20.12+-339933?style=flat-square&logo=node.js&logoColor=white)
 [![YouTube](https://img.shields.io/badge/YouTube-@LDuckxy-ff0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@LDuckxy)
@@ -88,8 +88,8 @@ Terra เอาคำพูดของ Sol ไปเทียบกับ log �
 ## เริ่มใช้งาน
 
 ```bash
-git clone https://github.com/duckxy166/duckxy-among-ai.git
-cd duckxy-among-ai
+git clone https://github.com/duckxy166/among-us-ai.git
+cd among-us-ai
 npm install
 npm run mock
 ```
@@ -167,10 +167,10 @@ cp .env.example .env
 ถ้าดู Claude กล่าวหา GPT หน้าตายแล้วยิ้มได้ **ฝากกด Star ให้ repo นี้หน่อย**
 ช่วยให้คนเล่นเกมและคนสาย AI เจอโปรเจกต์นี้ และเป็นกำลังใจให้ทำตอนต่อไป
 
-<a href="https://star-history.com/#duckxy166/duckxy-among-ai&Date">
+<a href="https://star-history.com/#duckxy166/among-us-ai&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=duckxy166/duckxy-among-ai&type=Date&theme=dark">
-    <img alt="Star history" src="https://api.star-history.com/svg?repos=duckxy166/duckxy-among-ai&type=Date" width="600">
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=duckxy166/among-us-ai&type=Date&theme=dark">
+    <img alt="Star history" src="https://api.star-history.com/svg?repos=duckxy166/among-us-ai&type=Date" width="600">
   </picture>
 </a>
 
